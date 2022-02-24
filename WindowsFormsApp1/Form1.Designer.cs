@@ -32,10 +32,11 @@ namespace WindowsFormsApp1
             this.label1 = new System.Windows.Forms.Label();
             this.aluNombre = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.aluNota = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.listaAlumnos = new System.Windows.Forms.TextBox();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -62,13 +63,6 @@ namespace WindowsFormsApp1
             this.label2.Size = new System.Drawing.Size(38, 17);
             this.label2.TabIndex = 2;
             this.label2.Text = "Nota";
-            // 
-            // aluNota
-            // 
-            this.aluNota.Location = new System.Drawing.Point(424, 84);
-            this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(69, 22);
-            this.aluNota.TabIndex = 3;
             // 
             // button1
             // 
@@ -98,6 +92,13 @@ namespace WindowsFormsApp1
             this.listaAlumnos.Size = new System.Drawing.Size(649, 247);
             this.listaAlumnos.TabIndex = 6;
             // 
+            // aluNota
+            // 
+            this.aluNota.Location = new System.Drawing.Point(424, 85);
+            this.aluNota.Name = "aluNota";
+            this.aluNota.Size = new System.Drawing.Size(77, 22);
+            this.aluNota.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
@@ -105,15 +106,16 @@ namespace WindowsFormsApp1
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.aluNota);
             this.Controls.Add(this.listaAlumnos);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.aluNota);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.aluNombre);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Práctica 5.1 DA2122";
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -124,10 +126,10 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox aluNombre;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox aluNota;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox listaAlumnos;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 
