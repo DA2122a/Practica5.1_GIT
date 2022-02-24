@@ -8,3 +8,14 @@ C:\Users\Danie\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\W
 C:\Users\Danie\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Danie\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Danie\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Huawei\Source\Repos\DA2122a\Practica5.1_GIT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
